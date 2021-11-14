@@ -1,6 +1,7 @@
 # Google Search UI Clone
 
 This is a clone of the Google Search UI with a News, Images, and Videos functions.
+
 Test is out on a live app [here](http://marcosearch.netlify.app/search) 
 
 ## Technologies Used
