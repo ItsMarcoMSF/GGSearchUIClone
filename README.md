@@ -2,11 +2,11 @@
 
 This is a clone of the Google Search UI with News, Images, and Video tabs and a Dark Mode.
 
+This project was built using React.js, RapidAPI, and Tailwind CSS. It is deployed on Netlify.
+
 Test is out on a live app [here](https://marcosearch.netlify.app/) 
 
 ![](https://github.com/ItsMarcoMSF/GGSearchUIClone/blob/main/screencap/ui.png)
-
-## Technologies Used
 
 ## Available Scripts
 
