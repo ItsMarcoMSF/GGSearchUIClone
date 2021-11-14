@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Google Search UI Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a clone of the Google Search UI with a News, Images, and Videos functions.
+Test is out on a live app [here](http://marcosearch.netlify.app/search) 
+
+## Technologies Used
 
 ## Available Scripts
 
